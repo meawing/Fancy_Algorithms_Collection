@@ -1,1 +1,1 @@
-Collection of some pieces of algorithms and data strucures
+Collection of random pieces of algorithms and data strucures
